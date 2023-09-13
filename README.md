@@ -1,19 +1,45 @@
-<h1 align="center">Hi 👋, I'm Adithya</h1>
-<h3 align="center">I love to build things on the internet</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cynixdecay&label=Profile%20views&color=0e75b6&style=flat" alt="cynixdecay" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cynixdecay" alt="cynixdecay" /></a> </p>
-
-- 🌱 I’m currently learning **on my python skills**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align='center'>
+  <img src='https://media3.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47aefkbfczws0e59ct1bvoacj0pnz4cxnk4faqref5&ep=v1_gifs_search&rid=giphy.gif&ct=g'
 </p>
 
+<h1 align="center">Hi, I'm Adithya<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
+- University student
+- Working on my python skills
+- Loves to code and sleep
+
+
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,python,c,js,html,mongodb,nodejs,selenium,postman" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cynixdecay&show_icons=true&locale=en" alt="cynixdecay" /></p>
+<h3 align="left">IDEs:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=replit,vscode" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cynixdecay&" alt="cynixdecay" /></p>
+<h3>Github Stats:</h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CynixDecay&show_icons=true&theme=material-palenight&cache_seconds=80000" alt="cynixdecay" /></p>
+<h3>Streaks:</h3>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=cynixdecay&theme=material-palenight" alt="cynixdecay" /></p>
+
+<h3>Top languages:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CynixDecay&layout=donut-vertical&cache_seconds=80000&theme=dark" alt="cynixdecay" /></p>
+
+<h3 align='left'>Random joke:</h3>
+<p align='center'><img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" /></p>
+
+>"To see a World in a Grain of Sand
+And a Heaven in a Wild Flower"
+
+&mdash; `William Blake`
