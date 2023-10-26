@@ -29,12 +29,12 @@
 
 <h3>Github Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CynixDecay&show_icons=true&theme=material-palenight&cache_seconds=80000" alt="cynixdecay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyakb10&show_icons=true&theme=material-palenight&cache_seconds=80000" alt="cynixdecay" /></p>
 <h3>Streaks:</h3>
-<p><img align="center" src="https://streak-stats.demolab.com/?user=cynixdecay&theme=material-palenight" alt="cynixdecay" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=adithyakb10&theme=material-palenight" alt="cynixdecay" /></p>
 
 <h3>Top languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CynixDecay&layout=donut-vertical&cache_seconds=80000&theme=dark" alt="cynixdecay" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyakb10&layout=donut-vertical&cache_seconds=80000&theme=dark" alt="cynixdecay" /></p>
 
 <h3 align='left'>Random joke:</h3>
 <p align='center'><img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" /></p>
