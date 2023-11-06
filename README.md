@@ -10,7 +10,7 @@
 - University student
 - Working on my python skills
 - Learning full stack web development 
-- Loves to code and sleep
+- Loves to code and read
 
 
 
