@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://media3.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47aefkbfczws0e59ct1bvoacj0pnz4cxnk4faqref5&ep=v1_gifs_search&rid=giphy.gif&ct=g'
+  <img src='https://media.tenor.com/cX92mi1p-NYAAAAM/coding-anime.gif'
 </p>
 
 <h1 align="center">Hi, I'm Adithya<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
