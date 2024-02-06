@@ -8,8 +8,8 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - University student
+- Full Stack MERN Developer
 - Working on my python skills
-- Learning full stack web development 
 - Loves to code and read
 
 
