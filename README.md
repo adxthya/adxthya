@@ -8,9 +8,9 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - University student
-- Full Stack MERN Developer
-- Working on my python skills
-- Loves to code and read
+- Full stack web developer
+- proficient in TS, JS and Python
+- Loves to code,read and watch movies
 
 
 
