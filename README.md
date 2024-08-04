@@ -24,7 +24,7 @@
 <h3 align="left">💻 IDEs:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=replit,vscode" />
+    <img src="https://skillicons.dev/icons?i=replit,vscode,neovim" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 <p><img align="center" src="https://streak-stats.demolab.com/?user=adithyakb10&theme=material-palenight"/></p>
 
 <h3>📝 Top languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyakb10&layout=donut-vertical&cache_seconds=80000&theme=dark" alt="cynixdecay" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyakb10&layout=normal&cache_seconds=80000&theme=dracula" alt="cynixdecay" /></p>
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
