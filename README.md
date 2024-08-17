@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png'
+  <img src='https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png' width="800"/>
 </p>
 
 <h1 align="center">Hi, I'm Adithya<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
