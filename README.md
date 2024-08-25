@@ -1,4 +1,5 @@
-![Github Banner](https://github.com/user-attachments/assets/e2d74c46-e91f-4410-a104-ca533a6b482c)
+![Github Banner](https://github.com/user-attachments/assets/414f7b9d-07dd-40ac-9ba6-674590a2476c)
+
 
 
 <h1 align="center">Hi, I'm Adithya<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
