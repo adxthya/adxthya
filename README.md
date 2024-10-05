@@ -28,6 +28,10 @@
   </a>
 </p>
 
+<h3>🏷️ Badges:</h3>
+
+[![An image of @adithyakb10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithyakb10)](https://holopin.io/@adithyakb10)
+
 <h3>🎯 Github Stats:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyakb10&show_icons=true&theme=material-palenight&cache_seconds=80000" alt="cynixdecay" /></p>
