@@ -30,16 +30,16 @@
 
 <h3>🏷️ Badges:</h3>
 
-[![An image of @adithyakb10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithyakb10)](https://holopin.io/@adithyakb10)
+[![An image of @adxthya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithyakb10)](https://holopin.io/@adithyakb10)
 
 <h3>🎯 Github Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyakb10&show_icons=true&theme=material-palenight&cache_seconds=80000" alt="cynixdecay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adxthya&show_icons=true&theme=material-palenight&cache_seconds=80000" alt="adxthya" /></p>
 <h3>🔥 Streaks:</h3>
-<p><img align="center" src="https://streak-stats.demolab.com/?user=adithyakb10&theme=material-palenight"/></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=adxthya&theme=material-palenight"/></p>
 
 <h3>📝 Top languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyakb10&layout=normal&cache_seconds=80000&theme=dracula" alt="cynixdecay" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adxthya&layout=normal&cache_seconds=80000&theme=dracula" alt="adxthya" /></p>
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
