@@ -50,9 +50,6 @@
 <a href="https://twitter.com/adithyakb10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adithyakb10" height="30" width="40" /></a>
 </p>
 
-<h3 align='left'>Random joke:</h3>
-<p align='center'><img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" /></p>
-
 >"To see a World in a Grain of Sand
 And a Heaven in a Wild Flower"
 
