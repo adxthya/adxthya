@@ -1,9 +1,6 @@
-![Github Banner](https://github.com/user-attachments/assets/414f7b9d-07dd-40ac-9ba6-674590a2476c)
-
-
+![Github Banner](./assets/banner.png)
 
 <h1 align="center">Hi, I'm Adithya<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
@@ -11,8 +8,6 @@
 - Full stack web developer
 - proficient in TS, JS and Python
 - Loves to code,read and watch movies
-
-
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center">
@@ -50,7 +45,7 @@
 <a href="https://twitter.com/adithyakb10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adithyakb10" height="30" width="40" /></a>
 </p>
 
->"To see a World in a Grain of Sand
-And a Heaven in a Wild Flower"
+> "To see a World in a Grain of Sand
+> And a Heaven in a Wild Flower"
 
 &mdash; `William Blake`
