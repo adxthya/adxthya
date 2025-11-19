@@ -2,7 +2,7 @@
 
 I’m [**Adithya**](https://adxthya.vercel.app/), a full stack developer based in India.
 
-My main tech stack is NextJS, TypeScript, Tailwind, and Firebase.
+My main tech stack is NextJS, TypeScript and Tailwind.
 
 Also interested in Linux and other FOSS products. Currently on NixOS and MacOS.
 
