@@ -1,3 +1,5 @@
+<img src="./assets/banner.png" alt="banner" style="border-radius: 50px;" />
+
 ### Hey there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 I’m [**Adithya**](https://adxthya.vercel.app/), a full stack developer based in India.
@@ -25,12 +27,16 @@ Apart from tech, I like to [draw](https://adxthya.github.io/pages/art.html) and 
 ![Vscode](https://img.shields.io/badge/%20Vscode-B2BEB5?style=for-the-badge&logo=vscodium&logoColor=000000)
 ![Neovim](https://img.shields.io/badge/%20Neovim-B2BEB5?style=for-the-badge&logo=neovim&logoColor=000000)
 
-### Github Stats
+### Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adxthya&show_icons=true&theme=material-palenight&cache_seconds=80000" alt="adxthya" /></p>
+<div>
+  
+![](https://raw.githubusercontent.com/adxthya/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/adxthya/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/adxthya/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/adxthya/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-### Top languages
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adxthya&layout=normal&cache_seconds=80000&theme=dracula" alt="adxthya" /></p>
+</div>
 
 ### Connect with me
 <p align="left">
